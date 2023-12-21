@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>image/leftsidebar.png</file>
+        <file>image/loginpic.jpg</file>
+        <file>image/search.png</file>
+        <file>image/title.jpg</file>
+        <file>image/tool.png</file>
+    </qresource>
+</RCC>
